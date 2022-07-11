@@ -28,4 +28,5 @@ https://www.learndatasci.com/glossary/gini-impurity/
 https://scikit-learn.org/stable/modules/tree.html
 https://www.ibm.com/cloud/learn/machine-learning
 https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html
+https://dibimbing.id/video-courses
 
